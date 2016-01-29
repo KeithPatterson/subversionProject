@@ -35,6 +35,7 @@ you can create as many branches as needed, although svn does not want branches
 8
 Working copy
 What does your local copy of a repository look like with svn?
+it is a copy of the servers turnk from the files that you choose
 9
 Status
 How do you check the status of the files you are presently working on?
