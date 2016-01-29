@@ -18,6 +18,7 @@ above command checks out a copy to your specified directory
 Bring me my .svn!
 How do you create the local working environment with svn (the .svn direc-
 tory)?
+create a local folder and then checkout the directory from the server to your local directory.
 5
 Adding to the chaos
 How do you add files to the repository?
