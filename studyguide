@@ -8,6 +8,7 @@ git - distributed, developed by linux kernel devs, speed, lightweight, powerful,
 2
 Commiting to svn
 How are commits handled in svn?
+svn commit -m "message"
 3
 Checking out svn
 How are check outs performed in svn?
