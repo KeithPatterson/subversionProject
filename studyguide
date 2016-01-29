@@ -12,6 +12,8 @@ svn commit -m "message"
 3
 Checking out svn
 How are check outs performed in svn?
+svn co [server] [directory]
+above command checks out a copy to your specified directory
 4
 Bring me my .svn!
 How do you create the local working environment with svn (the .svn direc-
