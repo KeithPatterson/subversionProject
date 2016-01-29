@@ -85,4 +85,5 @@ yes, the server can be on the same computer just in a different folder
 For the admins
 Did SVN provide any difference in tools between how you do server side
 commands and client side commands?
-
+server starts with svnadmin
+client starts with svn
