@@ -80,6 +80,7 @@ use the svn import command, assuming you have created a server
 18
 Local SVN
 Can the client/server setup required with svn exist on the same computer?
+yes, the server can be on the same computer just in a different folder
 19
 For the admins
 Did SVN provide any difference in tools between how you do server side
