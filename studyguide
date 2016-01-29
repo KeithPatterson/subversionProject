@@ -22,6 +22,7 @@ create a local folder and then checkout the directory from the server to your lo
 5
 Adding to the chaos
 How do you add files to the repository?
+import command can add unversioned files to your repository
 6
 It’s like a tree
 How are branches handled in svn?
