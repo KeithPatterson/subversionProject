@@ -76,6 +76,7 @@ The initial upload
 If you have an existing project and want to start tracking it with svn, how
 do you copy your existing files to the repository the first time? Does this
 create the .svn directory in your local folder?
+use the svn import command, assuming you have created a server
 18
 Local SVN
 Can the client/server setup required with svn exist on the same computer?
