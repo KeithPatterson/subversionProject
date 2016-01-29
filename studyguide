@@ -47,6 +47,8 @@ branches in svn are supposed to be short lived or not exist at all. You have you
 11
 Taping it together
 How do you merge branches?
+svn merge [files to be merged] //merges locally
+svn commit -m "merged branch"
 12
 We see a need!
 Why was svn created?
