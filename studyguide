@@ -43,6 +43,7 @@ svn status
 10
 Life of a branch
 How long are branches in svn supposed to exist?
+branches in svn are supposed to be short lived or not exist at all. You have your own working copy so not much of a need for a branch
 11
 Taping it together
 How do you merge branches?
