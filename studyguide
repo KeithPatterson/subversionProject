@@ -26,6 +26,8 @@ import command can add unversioned files to your repository
 6
 It’s like a tree
 How are branches handled in svn?
+make a copy of the repository to local
+svn copy [trunk url] [to dir] -m "message"
 7
 or maybe a forest
 How many branches can you have at any given time?
