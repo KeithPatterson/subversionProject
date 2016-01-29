@@ -64,6 +64,8 @@ support software development across a large network of people
 15
 Time machine
 How do we view the past of a project with svn?
+We can make a current directory look like it did from a snapshot (svn update -r [revision]
+We can also check out a whole new working copy from a snapshot (svn co [server url]@revision#)
 16
 Great Scott!
 If there was a mistake made in the past of a project, how should we go about
