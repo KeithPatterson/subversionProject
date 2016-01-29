@@ -60,6 +60,7 @@ create local copy, work on what you need, make commits as needed, merge with ser
 14
 What were they thinking?!
 What was the design criteria for svn?
+support software development across a large network of people
 15
 Time machine
 How do we view the past of a project with svn?
