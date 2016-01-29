@@ -70,6 +70,7 @@ We can also check out a whole new working copy from a snapshot (svn co [server u
 Great Scott!
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake in svn?
+"dont go correcting the past" fix the mistake now and keep the revisions progressing forward
 17
 The initial upload
 If you have an existing project and want to start tracking it with svn, how
