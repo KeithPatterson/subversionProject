@@ -31,6 +31,7 @@ svn copy [trunk url] [to dir] -m "message"
 7
 or maybe a forest
 How many branches can you have at any given time?
+you can create as many branches as needed, although svn does not want branches
 8
 Working copy
 What does your local copy of a repository look like with svn?
