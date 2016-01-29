@@ -56,6 +56,7 @@ SVN was created due to frustration with old version control
 13
 A day in the life of svn
 What is a typical svn workflow?
+create local copy, work on what you need, make commits as needed, merge with server directory
 14
 What were they thinking?!
 What was the design criteria for svn?
